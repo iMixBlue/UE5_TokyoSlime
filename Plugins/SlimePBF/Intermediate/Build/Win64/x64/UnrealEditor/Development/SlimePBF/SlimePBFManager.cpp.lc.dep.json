@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\source\\slimepbf\\private\\slimepbfmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\slimepbf\\definitions.slimepbf.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\source\\slimepbf\\public\\slimepbfmanager.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\source\\slimepbf\\public\\slimepbftypes.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\unrealeditor\\inc\\slimepbf\\uht\\slimepbftypes.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\unrealeditor\\inc\\slimepbf\\uht\\slimepbfmanager.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

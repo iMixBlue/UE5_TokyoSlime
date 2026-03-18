@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SlimePBF.cpp.obj": [
+			"SlimePawn.gen.cpp.obj",
+			"SlimePBF.init.gen.cpp.obj",
+			"SlimePBFInstancedMeshComponent.gen.cpp.obj",
+			"SlimePBFManager.gen.cpp.obj",
+			"SlimePBFTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"SlimePawn.cpp.obj",
+			"SlimePBF.cpp.obj",
+			"SlimePBFInstancedMeshComponent.cpp.obj",
+			"SlimePBFManager.cpp.obj"
+		]
+	}
+}

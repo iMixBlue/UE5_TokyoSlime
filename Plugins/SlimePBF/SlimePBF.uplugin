@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Slime PBF Simulation",
+	"Description": "Position Based Fluids simulation for slime effects",
+	"Category": "Simulation",
+	"CreatedBy": "YourName",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	],
+
+	"Modules": [
+		{
+			"Name": "SlimePBF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

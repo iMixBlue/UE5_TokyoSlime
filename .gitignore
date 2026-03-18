@@ -1,0 +1,55 @@
+# --- Unreal Engine 官方推荐忽略项 ---
+Binaries/*
+Intermediate/*
+Saved/*
+DerivedDataCache/*
+Build/*
+FileOpenOrder/*
+
+# 忽略自动生成的项目文件
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vsconfig
+
+# 忽略特定平台的编译产物
+Android_ASTC/
+Android_ETC2/
+Android_DXT/
+iOS/
+HTML5/
+
+# 忽略虚幻引擎的烘焙数据（通常不需要上传）
+*_BuiltData.uasset
+
+# --- IDE 及编辑器相关 ---
+
+# JetBrains Rider (非常重要，既然你在用 Rider)
+.idea/
+*.sln.DotSettings.user
+.idea.SolutionName
+
+# Visual Studio
+.vs/
+vsc/
+.vsconfig
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# --- AI 工具与辅助配置 ---
+.claude/
+.mcp.json
+.cursor/
+
+# --- 系统与临时文件 ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

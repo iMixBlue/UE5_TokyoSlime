@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\unrealeditor\\inc\\slimepbf\\uht\\slimepbftypes.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "x:\\unreal\\ue5.6\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\slimepbf\\definitions.slimepbf.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\source\\slimepbf\\public\\slimepbftypes.h",
+            "x:\\unreal\\projects\\myslime\\plugins\\slimepbf\\intermediate\\build\\win64\\unrealeditor\\inc\\slimepbf\\uht\\slimepbftypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

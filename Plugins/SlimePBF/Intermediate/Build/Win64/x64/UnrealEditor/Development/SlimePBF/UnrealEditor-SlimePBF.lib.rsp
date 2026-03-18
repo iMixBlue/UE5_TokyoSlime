@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SlimePBF.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"X:/Unreal/Projects/MySlime/Plugins/SlimePBF/Intermediate/Build/Win64/x64/UnrealEditor/Development/SlimePBF/Module.SlimePBF.cpp.obj"
+"X:/Unreal/Projects/MySlime/Plugins/SlimePBF/Intermediate/Build/Win64/x64/UnrealEditor/Development/SlimePBF/SlimePBFManager.cpp.obj"
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Default.rc2.res"
+/OUT:"X:/Unreal/Projects/MySlime/Plugins/SlimePBF/Intermediate/Build/Win64/x64/UnrealEditor/Development/SlimePBF/UnrealEditor-SlimePBF.lib"
